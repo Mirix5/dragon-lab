@@ -5,3 +5,9 @@ body {
   color: #e69500;
   background-color: black;
 }
+
+.preview-border {
+  border: #e69500 1px solid;
+  border-radius: 4px;
+  padding: 10px;
+}

@@ -12,7 +12,7 @@ export class Header extends Component {
                                 <h1 className="app-title">Dragon Lab</h1>
                             </div>
                             <div className='col-2'>
-                                <button type="button" className="btn btn-primary float-right">Log In</button>
+                                <button type="button" className="btn btn-primary float-right">Login</button>
                             </div>
                         </div>
                     </div>

@@ -1,0 +1,19 @@
+.preview-characteristics-title {
+    padding: 10px 0px;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.br {
+    margin: 3px 0px;
+    border-bottom: 1px solid #e69500;
+}
+
+.stat-box {
+    text-align: center;
+    margin: 5px;
+    border: 1px solid grey;
+    font-size: 3em;
+}
