@@ -1,17 +1,26 @@
 import React, { Component } from 'react'
-import '../css/CampaignPreview.css'
+import '../css/DungeonJournalPreview.css'
 
-export class CampaignPreview extends Component {
+export class DungeonJournalPreview extends Component {
     render() {
         return (
             <div className='container overview'>
-                <div className=''>
-                <h4><a href='/'>My Campaign</a></h4>
+                <div className='row'>
+                    <div className='col-12'>
+                        <h4><a href='/'>Dungeon Journal</a></h4>
+                    </div>
                 </div>
                 <div className='preview-border'>
                     <div className='row'>
-                        <div className='col-12 campaign-title'>
-                            <h5>Campaign Title</h5>
+                        <div className='col-1'>
+                        </div>
+                        <div className='col-3 latest-entry'>
+                            <h5>Latest Entry</h5>
+                        </div>
+                        <div className='col-7 latest-entry-date'>
+                            <h5>February 19, 2018</h5>
+                        </div>
+                        <div className='col-1'>
                         </div>
                     </div>
                     <div className='row'>
