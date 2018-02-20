@@ -6,20 +6,26 @@ export class CampaignPreview extends Component {
         return (
             <div className='container overview'>
                 <div className=''>
-                <h4><a href='/'>My Campaign</a></h4>
+                    <h4>My Campaign</h4>
                 </div>
                 <div className='preview-border'>
                     <div className='row'>
                         <div className='col-12 campaign-title'>
-                            <h5>Campaign Title</h5>
+                            <h4>Campaign Title</h4>
+                        </div>
+                    </div>
+                    <div className='row'>
+                        <div className='col-1'>
+                        </div>
+                        <div className='col-10 br'>
+                        </div>
+                        <div className='col-1'>
                         </div>
                     </div>
                     <div className='row'>
                         <div className='col-1'>
                         </div>
                         <div className='col-10'>
-                            <div className='col-12 br'></div>
-                            <div className='col-12 spacer'></div>
                             <p>
                             Post-ironic pour-over fam shabby chic kickstarter hell of neutra squid chartreuse. 
                             Kickstarter raclette gastropub intelligentsia. Asymmetrical cray beard ethical 

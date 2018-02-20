@@ -6,7 +6,7 @@ export class CharacterPreview extends Component {
         return (
             <div className='container character-overview overview'>
                 <div className='character-name'>
-                    <h4><a href='/'>My Character</a></h4>
+                    <h4>My Character</h4>
                 </div>
                 <div className='preview-border'>
                     <div className='row'>
