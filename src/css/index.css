@@ -8,10 +8,15 @@ body {
 
 .preview-border {
   border: #e69500 1px solid;
+  background-color: #0f0f0f;
   border-radius: 4px;
 
 }
 
 .overview {
   margin-top: 20px;
+}
+
+.spacer {
+  margin: 10px 0px; 
 }
